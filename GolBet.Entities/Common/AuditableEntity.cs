@@ -1,5 +1,7 @@
 ﻿// GolBet.Entities/Common/AuditableEntity.cs
 
+using System.ComponentModel.DataAnnotations;
+
 namespace GolBet.Entities.Common;
 
 /// <summary>
